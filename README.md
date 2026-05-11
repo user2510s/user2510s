@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/user2510s/user2510s/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=user2510s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/user2510s/user2510s/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
