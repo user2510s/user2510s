@@ -40,8 +40,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/user2510s/user2510s/stats-output/stats.svg" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=user2510s&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=user2510s&show_icons=true&theme=dracula" height="150" />
+
+  <img src="https://streak-stats.demolab.com?user=user2510s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user2510s&layout=compact&theme=dracula" height="150" />
 </div>
 
 ---
